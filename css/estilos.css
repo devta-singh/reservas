@@ -1,0 +1,16 @@
+#mesas li img{
+	width:50px;	
+}
+#mesas li{
+	/* border:2px solid transparent; */
+}
+#mesas li{
+	float:left;
+	margin-right:5px;	
+}
+#mesas{
+	list-style:none;
+}
+.seleccionada{
+	border:2px solid blue;
+}
